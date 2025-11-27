@@ -1,6 +1,6 @@
 # Stamps Mini test
 
-![Demo](https://github.com/10thjeh/stamps-test/blob/master/demo.gif)
+![Demo](https://github.com/10thjeh/stamps-test/blob/master/result.gif)
 
 ## Description
 
