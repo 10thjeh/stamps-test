@@ -24,7 +24,7 @@ pip install requests python-dotenv
 
 ```env
 OPENWEATHER_API_KEY=your_api_key_here
-BASE_OPENWEATHER_URL_API=https://pro.openweathermap.org/data/2.5/forecast/
+BASE_OPENWEATHER_URL_API=https://api.openweathermap.org/data/2.5/
 ```
 
 2. Get your API key from [OpenWeatherMap](https://openweathermap.org/api)
